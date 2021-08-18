@@ -1,0 +1,686 @@
+    1  sudo apt-get install imwheel
+    2  gedit 
+    3  gedit ~/.imwheelrc
+    4  sudo apt install gedit
+    5  gedit ~/.imwheelrc
+    6  imwheel --kill
+    7  imwheel --kill --buttons "4 5"
+    8  java -version
+    9  sudo apt-get update
+   10  cd local
+   11  cd Programming
+   12  cd lib
+   13  sudo apt-get update
+   14  wget https://www.antlr.org/download/antlr-4.9.2-complete.jar
+   15  cd antlr
+   16  export CLASSPATH=".:/usr/local/lib/antlr-4.9.2-complete.jar:$CLASSPATH"
+   17  export CLASSPATH=".:/iskanred/Programming/lib/antlr/antlr-4.9.2-complete.jar:$CLASSPATH"
+   18  printenv
+   19  ls
+   20  cd ..
+   21  cd /usr/local/lib
+   22  wget https://www.antlr.org/download/antlr-4.9.2-complete.jar
+   23  export CLASSPATH=".:/usr/local/lib/antlr-4.9.2-complete.jar:$CLASSPATH"
+   24  alias antlr4='java -jar /usr/local/lib/antlr-4.9.2-complete.jar'
+   25  alias grun='java org.antlr.v4.gui.TestRig'
+   26  antlr4
+   27  ls
+   28  python
+   29  y
+   30  wget https://www.antlr.org/download/antlr-4.9.2-complete.jar
+   31  sudo wget https://www.antlr.org/download/antlr-4.9.2-complete.jar
+   32  export CLASSPATH=".:/usr/local/lib/antlr-4.9.2-complete.jar:$CLASSPATH"
+   33  alias antlr4='java -jar /usr/local/lib/antlr-4.9.2-complete.jar'
+   34  alias grun='java org.antlr.v4.gui.TestRig'
+   35  ls
+   36  cd ..
+   37  cd home
+   38  cd iskanred
+   39  cd Programmin
+   40  cd Programming
+   41  cd Test
+   42  ls
+   43  antlr4 Expr.g4
+   44  javac Expr*.java
+   45  sudo apt install default-jdk 
+   46  javac Expr*.java
+   47  grun Expr prog -gui
+   48  grun Expr prog -gui 100+92*3-4/5*6-17
+   49  grun Expr prog -gui
+   50  grun Expr prog -gui 100
+   51  grun Expr prog -gui
+   52  ls
+   53  npm install antlr4
+   54  antlr4 Chat.g4
+   55  antlr antlr4 Chat.g4
+   56  $ export CLASSPATH=".:/usr/local/lib/antlr-4.9.2-complete.jar:$CLASSPATH"
+   57  $ alias antlr4='java -jar /usr/local/lib/antlr-4.9.2-complete.jar'
+   58  $ alias grun='java org.antlr.v4.gui.TestRig'
+   59  export CLASSPATH=".:/usr/local/lib/antlr-4.9.2-complete.jar:$CLASSPATH"
+   60  alias antlr4='java -jar /usr/local/lib/antlr-4.9.2-complete.jar'
+   61  alias grun='java org.antlr.v4.gui.TestRig'
+   62  antlr4 Chat.g4
+   63  ls
+   64  antlr4 Chat.g4
+   65  node Antlr.js
+   66  sudo apt install nodejs
+   67  node Antlr.js
+   68  node --experimental-modules Antlr.js
+   69  node Antlr.js
+   70  antlr4
+   71  http
+   72  notepad++
+   73  sudo snap install notepad-plus-plus
+   74  sudo get-apt install notepad-plus-plus
+   75  sudo apt-get install notepad-plus-plus
+   76  sudo apt update
+   77  sudo rm /etc/apt/preferences.d/nosnap.pref
+   78  sudo apt update
+   79  sudo apt install snapd
+   80  sudo snap install notepad-plus-plus
+   81  notepad++
+   82  notepad-plus-plus
+   83  notepad-plus-plus Antlr.js
+   84  npm install antlr4
+   85  sudo npm install antlr4
+   86  sudo apt-get update
+   87  sudo apt-get install nodejs
+   88  sudo apt-get install npm
+   89  npm -v
+   90  npm install antlr4
+   91  node Antlr.js
+   92  notepad-plus-plus Antlr.js
+   93  node Antlr.js
+   94  antlr4 -Dlanguage=JavaScript Chat.g4
+   95  node Antlr.js
+   96  node --experimental-modules Antlr.js
+   97  node --experimental-modules --es-module-specifier-resolution=node Antlr.js
+   98  notepad-plus-plus ChatLexer.js
+   99  notepad-plus-plus ChatListener.js
+  100  notepad-plus-plus ChatParser.js
+  101  notepad-plus-plus HtmlChatParser.js
+  102  notepad-plus-plus HtmlChatListener.js
+  103  node Antlr.js
+  104  npm install --save-dev @babel/core @babel/preset-env
+  105  node Antlr.js
+  106  npx babel-node
+  107  node ./node_modules/babel-cli/bin/babel-node.js --presets env Antlr.js
+  108  npm i -D @babel/preset-env
+  109  npx -p @babel/core -p @babel/node babel-node --presets @babel/preset-env Antlr.js
+  110  notepad-plus-plus HtmlChatListener.js
+  111  npx -p @babel/core -p @babel/node babel-node --presets @babel/preset-env Antlr.js
+  112  ls
+  113  npx -p @babel/core -p @babel/node babel-node --presets @babel/preset-env Antlr.js
+  114  antlr4 g.g4
+  115  sudo apt install antlr4
+  116  antlr4 g.g4
+  117  javac Expr*.java
+  118  javac g*.java
+  119  export CLASSPATH=".:/usr/local/lib/antlr-4.9.2-complete.jar:$CLASSPATH"
+  120  lias antlr4='java -jar /usr/local/lib/antlr-4.9.2-complete.jar'
+  121  alias antlr4='java -jar /usr/local/lib/antlr-4.9.2-complete.jar'
+  122  alias grun='java org.antlr.v4.gui.TestRig'
+  123  antlr4 g.g4
+  124  javac g*.java
+  125  grun g prog -gui
+  126  grun g chat -gui
+  127  sudo apt install make
+  128  antlr4 g.g4
+  129  javac g*.java
+  130  grun g chat -gui
+  131  antlr4 g.g4
+  132  javac g*.java
+  133  grun g chat -gui
+  134  antlr4 g.g4
+  135  grun g chat -gui
+  136  antlr4 g.g4
+  137  javac g*.java
+  138  grun g chat -gui
+  139  make
+  140  make clean
+  141  make
+  142  export CLASSPATH=".:/usr/local/lib/antlr-4.9-complete.jar:$CLASSPATH"
+  143  alias antlr4='java -Xmx500M -cp "/usr/local/lib/antlr-4.9-complete.jar:$CLASSPATH" org.antlr.v4.Tool'
+  144  make
+  145  alias grun='java -Xmx500M -cp "/usr/local/lib/antlr-4.9-complete.jar:$CLASSPATH" org.antlr.v4.gui.TestRig'
+  146  make
+  147  export CLASSPATH=".:/usr/local/lib/antlr-4.9-complete.jar:$CLASSPATH"
+  148  alias antlr4='java -Xmx500M -cp "/usr/local/lib/antlr-4.9-complete.jar:$CLASSPATH" org.antlr.v4.Tool'
+  149  alias grun='java -Xmx500M -cp "/usr/local/lib/antlr-4.9-complete.jar:$CLASSPATH" org.antlr.v4.gui.TestRig'
+  150  make
+  151  make clean
+  152  sudo apt purge --autoremove antlr4
+  153  export CLASSPATH=".:/usr/local/lib/antlr-4.9-complete.jar:$CLASSPATH"
+  154  alias antlr4='java -jar /usr/local/lib/antlr-4.9.2-complete.jar'
+  155  alias grun='java org.antlr.v4.gui.TestRig'
+  156  make
+  157  alias antlr4 ='java -jar /usr/local/lib/antlr-4.9.2-complete.jar'
+  158  alias antlr4='java -jar /usr/local/lib/antlr-4.9.2-complete.jar'
+  159  make
+  160  cd /usr/local/li
+  161  cd /usr/local/lib
+  162  curl -O https://www.antlr.org/download/antlr-4.9-complete.jar
+  163  wget https://www.antlr.org/download/antlr-4.9.2-complete.jar
+  164  echo &{CLASSPATH}
+  165  echo ${CLASSPATH}
+  166  export CLASSPATH=".:/usr/local/lib/antlr-4.9.2-complete.jar:$CLASSPATH"
+  167  echo ${CLASSPATH}
+  168  export CLASSPATH=
+  169  echo ${CLASSPATH}
+  170  export CLASSPATH=".:/usr/local/lib/antlr-4.9.2-complete.jar:$CLASSPATH"
+  171  echo ${CLASSPATH}
+  172  alias antlr4='java -jar /usr/local/lib/antlr-4.9.2-complete.jar'
+  173  alias grun='java org.antlr.v4.gui.TestRig'
+  174  cd ..
+  175  cd..
+  176  cd ..
+  177  cd iskanred
+  178  cd home
+  179  cd iskanred
+  180  cd ~
+  181  cd Programming
+  182  cd ~
+  183  cd Programming
+  184  ls
+  185  cd Test
+  186  ls
+  187  make
+  188  echo ${CLASSPATH}
+  189  alias antlr4='java -jar /usr/local/lib/antlr-4.9.2-complete.jar'
+  190  ls
+  191  make
+  192  type -a antlr4
+  193  make
+  194  make clean
+  195  make
+  196  echo ${CLASSPATH}
+  197  export CLASSPATH=".:/usr/local/lib/antlr-4.9.2-complete.jar:$CLASSPATH"
+  198  echo ${CLASSPATH}
+  199  alias antlr4='java -jar /usr/local/lib/antlr-4.9.2-complete.jar'
+  200  alias grun='java org.antlr.v4.gui.TestRig'
+  201  make antlr4
+  202  make
+  203  java Antlr.class
+  204  ls
+  205  java Antlr.class
+  206  java -cp . Antlr.class
+  207  java -cp .Antlr.class 
+  208  java Antlr.class fred
+  209  make
+  210  java -cp . Antlr.class
+  211  java -cp /home/iskanred/Programming/Test/Antlr.class  Antlr.class
+  212  java -cp . Antlr.class
+  213  make 
+  214  make clean
+  215  make
+  216  ls
+  217  java -cp . Antlr.class
+  218  java -Xdiag -cp . Antlr.class
+  219  java -Xdiag Antlr.java
+  220  java -Xdiag -cp . Antlr
+  221  java Antlr
+  222  make
+  223  java Antlr john says: sorry
+  224  make
+  225  java Antlr john says: sorry
+  226  java Antlr john says: hui
+  227  java Antlr john SHOUTS: hello @michael /pink/this will work/ :-)
+  228  java Antlr john SHOUTS: hello @michael :-)
+  229  java Antlr "john SHOUTS: hello @michael :-)"
+  230  apt --hel
+  231  mvn
+  232  sudo apt install maven
+  233  mvn --version
+  234  maven --version
+  235  sudo apt install maven
+  236  mvn --version
+  237  echo {&PATH}
+  238  echo &PATH
+  239  echo
+  240  echo $PATH
+  241  mvn --version
+  242  cd Programming
+  243  cd Test
+  244  ls
+  245  make
+  246  export CLASSPATH=".:/usr/local/lib/antlr-4.9.2-complete.jar:$CLASSPATH"
+  247  make
+  248  java Antlr
+  249  java Antlr john SHOUTS: hello @michael /pink/this will work/ :-)
+  250  make
+  251  java Main "john SHOUTS: hello @michael /pink/this will work/ :-)"
+  252  make
+  253  java Antlr "john SHOUTS: hello @michael /pink/this will work/ :-)"
+  254  make grun
+  255  make
+  256  java Antlr "john SHOUTS: hello @michael /pink/this will wo
+  257  java Antlr "john SHOUTS: hello @michael /pink/this will work/ :-)"
+  258  make
+  259  java Antlr "john SHOUTS: hello @michael /pink/this will work/ :-)"
+  260  make
+  261  java Antlr "john SHOUTS: /pink/ hello world @mention Mira"
+  262  java Antlr "john SHOUTS: /pink/ hello world /  @mention Mira"
+  263  java Antlr "john SHOUTS: hello world  @mention Mira"
+  264  make grun
+  265  make
+  266  java Antlr "john SHOUTS: hello world  @mention Mira"
+  267  make grun
+  268  cd ..
+  269  cd TestMarkup
+  270  make
+  271  make run
+  272  make
+  273  echo $CLASSPATH
+  274  make
+  275  javac -version
+  276  make
+  277  make run
+  278  sudo pico etc/paths
+  279  -vi .bash-profile
+  280  vi .bash-profile
+  281  ls
+  282  \ls -la
+  283  notepad-plus-plus .bashrc
+  284  sudo notepad-plus-plus .bashrc
+  285  nano .bashrc
+  286  vim .bashrc
+  287  vi .bashrc
+  288  make
+  289  antlr4
+  290  alias antlr4='java -jar /usr/local/lib/antlr-4.9.2-complete.jar'
+  291  make
+  292  exec bash
+  293  antlr4
+  294  printenv
+  295  printenv PATH
+  296  echo $JAVA_HOME
+  297  make
+  298  antlr-4.9.2-complete.jar
+  299  sudo antlr-4.9.2-complete.jar
+  300  java -jar antlr-4.9.2-complete.jar
+  301  sudo java -jar antlr-4.9.2-complete.jar
+  302  echo $PATH
+  303  make
+  304  make
+  305  antlr-4.9.2-complete.jar
+  306  java -jar antlr-4.9.2-complete.jar
+  307  ls
+  308  notepad-plus-plus Makefile
+  309  ls -l
+  310  chown iskanred antlr-4.9.2-complete.jar
+  311  sudo chown iskanred antlr-4.9.2-complete.jar
+  312  ls -l
+  313  mvn package
+  314  /home/iskanred/Programming/TestMarkup
+  315  св /home/iskanred/Programming/TestMarkup
+  316  cd /home/iskanred/Programming/TestMarkup
+  317  make
+  318  mvn --version
+  319  echo $PATH
+  320  printenv
+  321  sudo -H gedit /etc/environment
+  322  mvn
+  323  mvn --help
+  324  mvn archetype:generate
+  325  mvn package
+  326  cd mavenstart
+  327  mvn package
+  328  cd target
+  329  java mavenstart-1.0-SNAPSHOT.jar
+  330  ls
+  331  java -jar target/my-app-1.0-SNAPSHOT.jar
+  332  java -jar "./target/my-app-1.0-SNAPSHOT.jar"
+  333  java -cp "target/my-app-1.0-SNAPSHOT.jar" com.iskandev.App
+  334  java -cp target/my-app-1.0-SNAPSHOT.jar com.iskandev.App
+  335  java -cp "./target/my-app-1.0-SNAPSHOT.jar" com.iskandev.App
+  336  java -cp "./target/classes" com.iskandev.App
+  337  java -cp "./target/classes/com/iskandev" com.iskandev.App
+  338  cd ..
+  339  java -cp "./target/my-app-1.0-SNAPSHOT.jar" com.iskandev.App
+  340  java -cp target/my-app-1.0-SNAPSHOT.jar com.iskandev.App
+  341  java -cp target/classes/com/iskandev com.iskandev.App
+  342  java -cp "target/classes/com/iskandev" "com.iskandev.App"
+  343  java -cp "target/classes/com/iskandev/App.class" "com.iskandev.App"
+  344  java -cp "target/classes/com/iskandev/App.class" "App"
+  345  cd target
+  346  cd classes
+  347  cd com
+  348  cd iskandev
+  349  ls
+  350  java App
+  351  java com.iskandev.App
+  352  ls
+  353  java App
+  354  java -cp . App
+  355  java -cp . com.iskandev.App
+  356  cd ..
+  357  java -classpath "mavenstart-1.0-SNAPSHOT.jar" com.iskandev.App
+  358  java -cp target/my-app-1.0-SNAPSHOT.jar com.iskandev.App
+  359  java -cp "mavenstart-1.0-SNAPSHOT.jar" com.iskandev.App
+  360  cd ..
+  361  java -cp "target/mavenstart-1.0-SNAPSHOT.jar" com.iskandev.App
+  362  java -cp target/mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  363  nano pom.xml
+  364  notepad-plus-plus pom.xml
+  365  mkdir antlr4
+  366  ls antlr4
+  367  cd antlr4
+  368  mkdir com/iskandev
+  369  mkdir -p com/iskandev
+  370  ls
+  371  cd com
+  372  cd iskandev
+  373  ls
+  374  ls
+  375  mvn clean
+  376  mvn compile
+  377  maven package
+  378  mvn package
+  379  mvn clean
+  380  mvn package
+  381  mvn compile
+  382  mvn clean
+  383  mvn package
+  384  mvn clean
+  385  mvn package
+  386  ls
+  387  cd target
+  388  ls
+  389  java -cp mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  390  mvn package
+  391  mvn clean
+  392  cd .
+  393  cd ..
+  394  mvn clean
+  395  mvn package
+  396  java -cp mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  397  java -cp target/mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  398  mvn package
+  399  java -cp target/mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  400  mvn package
+  401  java -cp target/mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  402  mvn package
+  403  java -cp target/mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  404  mvn clean
+  405  mvn package
+  406  java -cp target/mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  407  mvn package
+  408  java -cp target/mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  409  mvn clean
+  410  mvn package
+  411  mvn clean
+  412  mvn package
+  413  java -cp target/mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  414  mvn clean
+  415  mvn package
+  416  mvn clean
+  417  mvn package
+  418  mvn clean
+  419  mvn package
+  420  mvn clean
+  421  mvn package
+  422  mvn install
+  423  mvn dependency:tree
+  424  mvn plugin:tree
+  425  mvn dependency:list
+  426  mvn help:effective-pom
+  427  mvn clean
+  428  mvn compile
+  429  mvn install
+  430  mvn package
+  431  touch MarkupLexer.g4
+  432  nano MarkupLexer.g4
+  433  echo MarkupLexer.g4
+  434  echo "MarkupLexer.g4"
+  435  echo <MarkupLexer.g4
+  436  echo >MarkupLexer.g4
+  437  nano MarkupLexer.g4
+  438  cd ../..
+  439  cd ../../../..
+  440  cd mavenstart
+  441  ls
+  442  mvn clean
+  443  mvn package
+  444  java -cp target/mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  445  mvn package
+  446  mvn clean
+  447  mvn package
+  448  mvn install
+  449  touch MarkupVisitor.java
+  450  nano  MarkupVisitor.java
+  451  touch MarkupPasrser.g4
+  452  nano MarkupPasrser.g4
+  453  cd ../../../..
+  454  cd ..
+  455  mvn clean
+  456  mvn install
+  457  mvn clean
+  458  mvn install
+  459  mvn clean
+  460  mvn install
+  461  java -cp target/mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  462  mvn clean
+  463  mvn install
+  464  mvn clean
+  465  mvn install
+  466  java -cp "target/mavenstart-1.0-SNAPSHOT.jar":mvn\pp
+  467  mvn clean
+  468  mvn package
+  469  java -jar target/mavenstart-1.0-SNAPSHOT.jar
+  470  java -cp target/mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  471  mvn clean
+  472  mvn package
+  473  java -cp target/mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  474  mvn clean
+  475  mvn install
+  476  java -cp target/mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  477  mvn help:effective-pom
+  478  mvn install
+  479  mvn clean
+  480  mvn install
+  481  mvn clean
+  482  mvn install
+  483  java -cp target/mavenstart-1.0-SNAPSHOT.jar com.iskandev.App
+  484  mvn clean
+  485  mvn install
+  486  java -cp target/mavenstart-1.0-SNAPSHOT.jar com.iskandev.Appmavenstart-1.0-SNAPSHOT-jar-with-dependencies.ja
+  487  java -cp target/mavenstart-1.0-SNAPSHOT-jar-with-dependencies.jar com.iskandev.App
+  488  mvn clean
+  489  mvn install
+  490  mvn clean
+  491  mvn install
+  492  java -jar target/mavenstart-1.0-SNAPSHOT-jar-with-dependencies.jar
+  493  mvn clean
+  494  mvn install
+  495  java -jar target/mavenstart-1.0-SNAPSHOT-jar-with-dependencies.jar
+  496  mvn clean
+  497  mvn install
+  498  java -jar target/mavenstart-1.0-SNAPSHOT-jar-with-dependencies.jar
+  499  mvn clean
+  500  mvn install
+  501  mvn clean
+  502  mvn install
+  503  java -jar target/mavenstart-1.0-SNAPSHOT-jar-with-dependencies.jar
+  504  git
+  505  sudo apt install git
+  506  git --v
+  507  git -version
+  508  git --version
+  509  git clone https://github.com/EdikGoose/GoLang-parser-ANTLR
+  510  git commit -m "iskanred:clone"
+  511  git commit -m "iskanred-clone"
+  512  openjdk-13-jdk
+  513  sudo apt get install openjdk-13-jdk
+  514  sudo apt install openjdk-13-jdk
+  515  java -version
+  516  git add .
+  517  ls
+  518  cd GoLang-parser-ANTLR
+  519  git commit -m "iskanred:clone:
+  520  git commit -m "iskanred:clone"
+  521  git config --global user.email "nafikov.iskander@mail.ru"
+  522  git config --global user.name "iskanred"
+  523  git commit -m "iskanred:clone"
+  524  java -version
+  525  git push
+  526  git remote -v\
+  527  git remote -v
+  528  git remote set-url origin git@github.com:EdikGoose/GoLang-parser-ANTLR.git
+  529  git remote -v
+  530  git push
+  531  git push git@github.com:EdikGoose/GoLang-parser-ANTLR.git
+  532  ls -al ~/.ssh
+  533  ssh-keygen -t ed25519 -C "your_email@example.com"
+  534  ssh-keygen -t ed25519 -C "nafikov.iskander@mail.ru"
+  535  eval "$(ssh-agent-s)"
+  536  ssh-agent
+  537  ssh-add ~/.ssh/id_ed25519
+  538  git clone git@github.com:EdikGoose/GoLang-parser-ANTLR.git
+  539  ls
+  540  cd GoLang-parser-ANTLR
+  541  ls
+  542  ls -a
+  543  git add .
+  544  ls
+  545  git commit -m "intial commit iskanred:clone"
+  546  git push
+  547  git pull
+  548  git add .
+  549  git commit -m "configure maven"
+  550  git push
+  551  mvn clean install -X
+  552  git status
+  553  git pull
+  554  git status
+  555  git add .
+  556  git commit -m "update lexer/parser"
+  557  git push
+  558  git status
+  559  git pull
+  560  git status
+  561  git add .
+  562  git commit -m "update lexer/parser"
+  563  git push
+  564  git add .
+  565  git commit -m "rename antlr to antlr4 directory"
+  566  git push
+  567  git pull
+  568  git status
+  569  git restore
+  570  git restore .
+  571  git status
+  572  git add .
+  573  git status
+  574  git add .
+  575  git status
+  576  git restore .
+  577  git status
+  578  git restore --.
+  579  git restore .
+  580  git status
+  581  git pull
+  582  git status
+  583  git add .
+  584  git commit -m "Configure project"
+  585  git pull
+  586  git push
+  587  git restore .
+  588  git statis
+  589  git status
+  590  git pull
+  591  git pull
+  592  ls
+  593  gcc ex1.c -o ex1.a
+  594  ex1
+  595  ex1.a
+  596  gcc ex1.c -o ex1.sh
+  597  ./<ex.sh>
+  598  ls
+  599  gcc ex1.c -o ex1
+  600  ./ex1
+  601  gcc ex1.c -o ex1
+  602  ./ex1
+  603  gcc ex1.c -o ex1
+  604  ./ex1
+  605  gcc ex1.c -o ex1
+  606  ./ex1
+  607  touch ex2.c
+  608  ex2.c
+  609  nano ex2.c
+  610  ls
+  611  gcc ex1.c -o ex1
+  612  ./ex1
+  613  gcc ex2.c -o ex2
+  614  nano ex2
+  615  nano ex2.c
+  616  gcc ex2.c -o ex2
+  617  ls
+  618  ./ex2
+  619  less ex2.c
+  620  head ex2.c
+  621  grep PATTERN ex2.c
+  622  jobs
+  623  fg %1
+  624  jobs
+  625  fg %2
+  626  jobs
+  627  mkdir week1
+  628  cd week1
+  629  touch ex1.txt
+  630  ls
+  631  grep gcc /ust
+  632  grep gcc /usr/bin
+  633* grep  gcc /usr/bin
+  634  grep gcc /usr/bin *
+  635  grep -l /usr/bin gcc
+  636  grep gcc /usr/bin/*
+  637  grep -l  gcc /usr/bin/*
+  638  grep -rl  gcc /usr/bin/*
+  639  grep -l  gcc /usr/bin/*
+  640  ls /usr/bin | grep gcc
+  641  grep -l  gcc /usr/bin/* | ls -a
+  642  ls -a /usr/bin | grep gcc
+  643  ls -a /usr/bin | grep -r gcc
+  644  ls -a /usr/bin | grep - gcc | sort -r
+  645  ls -a /usr/bin | grep  gcc | sort -r
+  646  ls -a /usr/bin | grep  gcc | sort -r > ex1.txt
+  647  ls
+  648  echo ex1.tx
+  649  echo ex1.txt
+  650  echo "ex1.txt'
+  651  nano ex1.txt
+  652  echo < ex1.txt
+  653  echo >  ex1.txt
+  654  nano ex1.txt
+  655  ls -a /usr/bin | grep  gcc | sort -r > ex1.txt
+  656  nano ex1.txt
+  657  echo < ex1.txt
+  658  nano ex1.txt
+  659  gedit ex1.txt
+  660  man ls
+  661  ls --help
+  662* ls -a /usr/bin | grep  gcc | sort -r
+  663  history
+  664  history > ex2.txt
+  665  ls
+  666  nano ex2.txt
+  667  date
+  668  date +%T
+  669  touch ex3.sh
+  670  nano ex3.sh
+  671  sh ex3.sh
+  672  nano ex3.sh
+  673  sh ex3.sh
+  674  gedit ex3.sh
+  675  cd ..
+  676  git clone git@github.com:Iskanred/Operating-Systems-Course.git
+  677  l
+  678  ls
+  679  cd Operating-Systems-Course
+  680  ls
+  681  ls -h
+  682  mkdir week01
+  683  ls
+  684  cd week01
+  685  ls -a /usr/bin | grep  gcc | sort -r > ex1.txt
+  686  history > ex2.txt
