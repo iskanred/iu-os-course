@@ -3,7 +3,7 @@
 #define BUFFER_SIZE 1001
 
 int main() {
-    printf("Please be aware that maximum size of the input string is 1000 characters\n");
+    	printf("Please be aware that maximum size of the input string is 1000 characters\n");
 	char str[BUFFER_SIZE], reverse[BUFFER_SIZE];
 	fgets(str, BUFFER_SIZE, stdin);
 

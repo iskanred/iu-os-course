@@ -9,7 +9,12 @@ void  swap(int* a, int* b) {
 
 int main() {
 	printf("Please input two integers\n");
-	int a, b; scanf("%d %d", &a, &b);
+	int a, b;
+
+	if (scanf("%d %d", &a, &b) != 2) {
+		printf("Input mismatch: excpected two integers\n");
+		return 0;
+	}
 
 	swap(&a, &b);
 

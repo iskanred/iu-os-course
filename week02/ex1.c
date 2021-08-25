@@ -6,7 +6,7 @@ int main() {
     int intVar = INT_MAX;
     float floatVar = FLT_MAX;
     double doubleVar = DBL_MAX;
-    
+
     printf("int var has a size = %lu bytes\n", sizeof(intVar));
     printf("float var has a size = %lu bytes\n", sizeof(floatVar));
     printf("double var has a size = %lu bytes\n", sizeof(doubleVar));
