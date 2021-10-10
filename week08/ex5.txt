@@ -1,0 +1,3 @@
+Physical address is an exact hardware address of a physical memory cell and CPU interacts with by putting it to the processor bus.
+
+Virtual address is an address that refers to the virtual memory which is an abstraction of physical memory. The most common used algorithm for mapping virtual address to physical one is called paging.
