@@ -1,0 +1,3 @@
+After contructing several sequences and identify some dependencies of hit/miss ration on different sequences we can conclude:
+If the number of page references between the same references in a sequence are greater than number of page frames, page fault will occur.
+In other words, it's better when referring to some page occur more often than number of page frames.
