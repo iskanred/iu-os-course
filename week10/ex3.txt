@@ -1,0 +1,6 @@
+-rw-r--r-- 1 user user 9 Oct 20 11:51 _ex3.txt
+-rwxr--rwx 1 user user 9 Oct 20 11:51 _ex3.txt
+-rwxrwxrwx 1 user user 9 Oct 20 11:51 _ex3.txt
+1) 660 = (rw- for owner) , (rw- for group) , (--- for others)
+2) 775 = (rwx for owner) , (rwx for group) , (r-x for others)
+3) 777 = (rwx for onwer) , (rwx for group) , (rwx for others)
