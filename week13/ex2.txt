@@ -1,5 +1,0 @@
-1) Recovery requires one of the four methods to deal with deadlock (preemtion, rollback, kill all deadlocked processes, abort one process at a time until the elimination of the deadblock cycle). Recovery strategy then can either be too long in execution or make system to go into starvation.
-
-2) Avoidance is the best strategy which uses Banker's algorithm. However, it requires the information about how many resources a process would need in advance. Because of halting problem in the real world it is impossible.
-
-3) Prevention is used in real systems. It works by eliminating the conditions of deadblocks existence (Mutual Exclusion, Hold and Wait, No preemption, Circular wait).
